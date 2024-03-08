@@ -18,7 +18,7 @@
 ## Önemli Notlar:
 - [Yanlış Yerde Açılan Git Versiyon Kontrol Sistemine Dikkat Etmeniz Gerekiyor. Lütfen < git init > Kullanmadan Önce Bu Videoyu İzleyin](https://www.youtube.com/watch?v=5o8Q2uiqFTw&t=2s)
 
-## Eğitimin Genel Hedefi:
+## Eğitimin Genel Hedeffi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
 * JavaScript’e geçmeden önce HTML, CSS ve Bootstrap gibi temel yapıları kullanabilmelerini sağlamak
